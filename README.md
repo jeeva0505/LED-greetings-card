@@ -35,7 +35,7 @@ PULSE TEAM
                   Finally, decorate the card with paper, drawings, or other decorative materials.
 
 **CIRCUIT**  
-![circuit](circuit.jpg)
+![circuit](circuit.png)
 
 **RESULT**  
 ![RESULT](RESULT.jpg)
